@@ -21,4 +21,3 @@ This project explores and visualizes Uber pickup data in New York City using Pyt
 - **Pickup Hotspots:** Midtown and Downtown Manhattan, and JFK Airport show high activity.
 - **Time-Day Heatmap:** Activity spikes during evenings on weekends and after work on weekdays.
 
-## 📁 Project Structure
