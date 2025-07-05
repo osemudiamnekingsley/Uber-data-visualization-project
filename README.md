@@ -1,10 +1,9 @@
 # 🚖 Uber Data Visualization Project
 
-This project explores and visualizes Uber pickup data in New York City using Python and Tableau. It focuses on uncovering temporal and spatial patterns in Uber rides to provide actionable insights.
+This project explores and visualizes Uber pickup data in New York City using Python. It focuses on uncovering temporal and spatial patterns in Uber rides to provide actionable insights.
 
 ## 🛠️ Tools & Technologies Used
 - **Python** (Pandas, Matplotlib, Seaborn, Folium)
-- **Tableau** (for interactive dashboards)
 - **Jupyter Notebook**
 - **Git & GitHub** (for version control and sharing)
 
